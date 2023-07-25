@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 - <b> I'm dwip (he/him)
-- I’m currently learning <b>dart&flutter</b>
+- I’m currently learning <b>Dart&Flutter</b>
 - Learning and sharing my progress in public on twitter.</a>
 - Continuously learning and engaging with the tech community.
 
