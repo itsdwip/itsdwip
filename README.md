@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 - <b> I'm dwip (he/him)
-- I’m currently learning <b>dart&flutter</b> <img src="https://emoji.discadia.com/emojis/214dbbfa-2f19-4c43-8f2e-498415823690.PNG" width="13px" >  <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="13px" > 
+- I’m currently learning <b>dart&flutter</b>
 - Learning and sharing my progress in public on twitter.</a>
 - Continuously learning and engaging with the tech community.
 
