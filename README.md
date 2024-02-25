@@ -1,6 +1,6 @@
 <h1 align="center"><samp>&gt; Hey, I am <b><a target="_blank" href="https://github.com/itsdwip">Dwip</a></b></samp></h1>
 <div>
-    <img src="https://media1.tenor.com/m/ogVQTasAMTMAAAAC/anime-houtarou.gif" align="right" height=240>
+    <img src="https://media1.tenor.com/m/ogVQTasAMTMAAAAC/anime-houtarou.gif" align="right" height=200>
   <br>
     <li>
         <b>Age:</b> 19
